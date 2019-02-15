@@ -1,1 +1,1 @@
-echo Hello script!
+echo Hello script run
